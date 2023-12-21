@@ -1,16 +1,31 @@
-### Hi there 👋
+# Welcome to My GitHub Page!
 
-<!--
-**emrxv/emrxv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm Emre Sunar, a Second-Year Computer Science Student at Worcester Polytechnic Institute. Here, you'll find projects ranging from fully functioning websites to mini browser games.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍💻 I'm currently working on learning Neural Networks/Deep Learning.
+- 🌱 I’m currently learning JavaScript.
+- 📫 How to reach me: esunar@wpi.edu.
+
+## Technologies I Use
+
+- Java
+- HTML
+- CSS
+- C/C++
+- Amazon Web Services
+- JavaScript
+- SQL
+- Git
+- React
+- Node.js
+
+## Connect with Me
+
+- https://www.linkedin.com/in/emresunar/
+
+## Support
+
+If you like my work, consider starring 🌟 the repositories!
+
