@@ -1,6 +1,6 @@
 # Welcome to My GitHub Page!
 
-Hello! I'm Emre Sunar, a Second-Year Computer Science Student at Worcester Polytechnic Institute. Here, you'll find projects ranging from fully functioning websites to mini browser games.
+Hello! I'm Emre Sunar, a Third-Year Computer Science Student at Worcester Polytechnic Institute. Here, you'll find projects ranging from fully functioning websites to mini browser games.
 
 ## About Me
 
@@ -10,6 +10,7 @@ Hello! I'm Emre Sunar, a Second-Year Computer Science Student at Worcester Polyt
 
 ## Technologies I Use
 
+- Python
 - Java
 - HTML
 - CSS
