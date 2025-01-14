@@ -4,8 +4,7 @@ Hello! I'm Emre Sunar, a Third-Year Computer Science Student at Worcester Polyte
 
 ## About Me
 
-- 👨‍💻 I'm currently working on learning Neural Networks/Deep Learning.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: esunar@wpi.edu.
 
 ## Technologies I Use
